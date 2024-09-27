@@ -1,6 +1,6 @@
 import type { Namespace } from '@/types';
 
 export const namespace: Namespace = {
-    name: 'Love Live! Official Website',
-    url: 'www.lovelive-anime.jp',
+    name: 'YAMAP',
+    url: 'yamap.com',
 };
